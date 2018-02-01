@@ -1,12 +1,12 @@
 {
   "locals": {
-    "title": "My SelfSteem Blog",
-    "description": "A shiny blog powered by the steem blockchain",
-    "author": "Santa Claus",
-    "username": "donkeypong",
+    "title": "skenan的博客",
+    "description": "建立在 Steem 区块链上的博客",
+    "author": "skenan",
+    "username": "skenan",
     "copyright": "© 2017",
     "server": "https://api.steemit.com",
-    "locale": "en",
+    "locale": "zh",
     "release": "2"
   },
   "i18n": {

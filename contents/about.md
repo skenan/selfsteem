@@ -1,14 +1,10 @@
 
-This blog is powered by [SelfSteem](https://github.com/jnordberg) and the [Steem blockchain](https://steem.io). SelfSteem is made by [Johan Nordberg](https://github.com/jnordberg) and released under the [GNU General Public License v3 (GPL-3)](https://www.tldrlegal.com/l/gpl-3.0).
+此博客基于 [SelfSteem](https://github.com/jnordberg/selfsteem) 实现, 内容直接从[Steem](https://steem.io) 区块链上获取，数据永不消失。
 
-You can edit this text in `contents/about.md`. This example blog takes it content from [@donkeypong](https://steemit.com/@donkeypong) – *no affiliation* – just chosen for the high quality content he produces.
+</br>
+</br>
+</br>
+我是[skenan](https://steemit.com/@skenan)，个人维护 [CNsteem.com](https://cnsteem.com) 和 [CNsteem.io](https://cnsteem.io)
+欢迎在 Steemit 上关注我。
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-I like turtles.
